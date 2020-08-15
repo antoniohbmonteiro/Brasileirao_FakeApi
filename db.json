@@ -118,11 +118,8 @@
     "jogos":[
         {
             "id":1,
-            "nome": "Antonio"
-        },
-        {
-            "id":2,
-            "nome": "Izabella"
+            "timeCasaId":1,
+            "timeVisitanteId":7
         }
     ]
 }
