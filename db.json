@@ -139,7 +139,17 @@
             "id":1,
             "timeCasaId":1,
             "timeVisitanteId":7,
-
+            "dia":"15/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":2,
+            "timeCasaId":1,
+            "timeVisitanteId":7,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
         }
     ]
 }
