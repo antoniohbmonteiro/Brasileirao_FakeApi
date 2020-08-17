@@ -145,8 +145,8 @@
         },
         {
             "id":2,
-            "timeCasaId":1,
-            "timeVisitanteId":7,
+            "timeCasaId":10,
+            "timeVisitanteId":12,
             "dia":"16/08",
             "hora":"17:00",
             "rodada":1
