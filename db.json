@@ -145,10 +145,6 @@
         },
         {
             "id":2,
-<<<<<<< Updated upstream
-            "timeCasaId":10,
-            "timeVisitanteId":12,
-=======
             "timeMandanteId":11,
             "timeVisitanteId":10,
             "dia":"16/08",
@@ -191,7 +187,6 @@
             "id":7,
             "timeMandanteId":9,
             "timeVisitanteId":5,
->>>>>>> Stashed changes
             "dia":"16/08",
             "hora":"17:00",
             "rodada":1
