@@ -137,7 +137,7 @@
     "jogos":[
         {
             "id":1,
-            "timeCasaId":1,
+            "timeMandanteId":1,
             "timeVisitanteId":7,
             "dia":"15/08",
             "hora":"17:00",
@@ -145,8 +145,53 @@
         },
         {
             "id":2,
+<<<<<<< Updated upstream
             "timeCasaId":10,
             "timeVisitanteId":12,
+=======
+            "timeMandanteId":11,
+            "timeVisitanteId":10,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":3,
+            "timeMandanteId":2,
+            "timeVisitanteId":1,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":4,
+            "timeMandanteId":4,
+            "timeVisitanteId":14,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":5,
+            "timeMandanteId":19,
+            "timeVisitanteId":15,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":6,
+            "timeMandanteId":3,
+            "timeVisitanteId":8,
+            "dia":"16/08",
+            "hora":"17:00",
+            "rodada":1
+        },
+        {
+            "id":7,
+            "timeMandanteId":9,
+            "timeVisitanteId":5,
+>>>>>>> Stashed changes
             "dia":"16/08",
             "hora":"17:00",
             "rodada":1
